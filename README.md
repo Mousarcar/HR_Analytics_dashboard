@@ -40,7 +40,7 @@ Salary?
 12. What is the attrition rate by education
 field?
 ## Dashboard
-![pic](hhr.JPG)
+![pic](hrdash.JPG)
 ## Insights
 * The highest attrition occurred among employees aged 25 to 34 years.
 * Most attrition is seen among those who have worked in the company for one
